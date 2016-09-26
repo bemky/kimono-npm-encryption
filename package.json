@@ -1,0 +1,40 @@
+{
+  "name": "@kimonolabs/encryption",
+  "version": "0.0.2",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:kimonolabs/encryption.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kimonolabs/encryption/issues"
+  },
+  "homepage": "https://github.com/kimonolabs/encryption",
+  "gitHead": "6e00e8075879b3d57e6aed6e0bd47360d31cf875",
+  "_id": "@kimonolabs/encryption@0.0.2",
+  "_shasum": "e1453ae923297f44ff14378435cc8ab1b5e9052c",
+  "_from": "@kimonolabs/encryption@0.0.2",
+  "_npmVersion": "2.1.10",
+  "_nodeVersion": "0.10.28",
+  "_npmUser": {
+    "name": "bluemoon3000",
+    "email": "chandra.neal@gmail.com"
+  },
+  "dist": {
+    "shasum": "e1453ae923297f44ff14378435cc8ab1b5e9052c",
+    "tarball": "http://npm.kimonolabs.com:8080/@/@kimonolabs/encryption/_attachments/encryption-0.0.2.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "aez",
+      "email": "aez@kimonolabs.com"
+    }
+  ],
+  "_resolved": "http://npm.kimonolabs.com:8080/@/@kimonolabs/encryption/_attachments/encryption-0.0.2.tgz"
+}
